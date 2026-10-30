@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "metatrader5": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "--directory", "C:\\Users\\airis\\Downloads\\TradingAssistant", "python", "mt5_server.py"]
+    }
+  }
+}

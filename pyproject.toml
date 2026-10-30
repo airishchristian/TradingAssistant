@@ -1,0 +1,8 @@
+[project]
+name = "tradingassistant"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp[cli]<2",
+    "metatrader5>=5.0.6231",
+]
